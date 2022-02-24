@@ -1,6 +1,7 @@
 # Border-Radius-Generator
 
-version: 1.0
+version: 1.0 </br>
+https://renanfonseca.github.io/Border-Radius-Generator/
 
 ## Technologies
 <div>
